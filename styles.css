@@ -1,0 +1,15 @@
+.heading {
+    border: 2px solid black;
+    padding: 1em;
+    margin: 1em;
+    font-size: 20px;
+    width: 8em;
+    text-align: center;
+}
+.pic-heading {
+    text-align: center;
+}
+#yonce {
+    width: 400px;
+    height: 400px;
+}
