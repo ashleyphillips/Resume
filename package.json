@@ -1,0 +1,24 @@
+{
+  "name": "Resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch styles.scss styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleyphillips/Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleyphillips/Resume/issues"
+  },
+  "homepage": "https://github.com/ashleyphillips/Resume#readme",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
