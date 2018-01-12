@@ -106,6 +106,10 @@ body.hello {
     font-size: 26px;
     padding: 12px;
 }
+.lightlink {
+    height: 1em;
+    float: right;
+}
 .squares p {
     color: #3D3C3C;
 }
@@ -116,7 +120,7 @@ body.hello {
     display: block;
     text-align: center;
 }
-.work {
+.gray-text {
     color: #C2C2C2
 }
 .hard {
@@ -127,7 +131,6 @@ body.hello {
 }
 .smallform {
     background-color: #F4F4F4;
-    color: #C2C2C2;
     height: 50px;
     width: 700px;
     text-align: left;
@@ -139,7 +142,6 @@ body.hello {
 }
 .bigform {
     background-color: #F4F4F4;
-    color: #C2C2C2;
     height: 200px;
     width: 700px;
     text-align: left;
